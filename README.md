@@ -1,3 +1,1 @@
-# wedsite-study
-# wedsite-study
-# wedsite-study
+# study-wedsite
